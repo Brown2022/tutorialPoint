@@ -1,0 +1,8 @@
+# Test the binary search function
+
+arr = [1, 3, 5, 7, 9]
+
+x = 5
+
+result = binary_search(arr, x)
+print(result) # Otputs the index 2
